@@ -71,5 +71,5 @@ Copyright (c) 2013-2021 Ghost Foundation - Released under the [MIT license](LICE
 
 TODO 
 
-How to add an account?????
-git commit -m --author "Real1ty" <dreadlord12318@gmail.com>
+
+
