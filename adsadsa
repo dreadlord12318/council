@@ -1,0 +1,71 @@
+[33mcommit 46fef56c0350f1a73728a460cce2ae61aad35f2c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Real1ty <dreadlord12318@gmail.com>
+Date:   Mon Apr 19 15:46:26 2021 +0800
+
+    Just some stuff
+
+[33mcommit 8d4607d6f5ac66a16d162e3805ca2980b9bed4e6[m
+Author: Real1ty <dreadlord12318@gmail.com>
+Date:   Thu Apr 8 10:34:40 2021 +0800
+
+    Added iframe on post
+
+[33mcommit adcfa0436a2b46a4aabcc48b2acd86175c174c80[m
+Author: Real1ty <dreadlord12318@gmail.com>
+Date:   Thu Apr 8 10:15:49 2021 +0800
+
+    ghost local
+
+[33mcommit 9f898bd705a265cfe44f425ce309bf88e924c0d1[m
+Author: Real1ty <dreadlord12318@gmail.com>
+Date:   Thu Apr 8 09:48:41 2021 +0800
+
+    Reverting index.hbs
+
+[33mcommit 255765a0e91d3845cf06b4d012bacd06e9bd01a2[m
+Author: Real1ty <dreadlord12318@gmail.com>
+Date:   Wed Apr 7 15:46:30 2021 +0800
+
+    Images Upload
+
+[33mcommit d316a546180933e8b0b0a46b6cefd7fd76856e0a[m
+Author: Real1ty <dreadlord12318@gmail.com>
+Date:   Wed Apr 7 15:42:49 2021 +0800
+
+    index.hbs File Update
+
+[33mcommit e2d8e83d3b820fe69ab0a51b161bcb37dc2f6ea4[m
+Author: Real1ty <dreadlord12318@gmail.com>
+Date:   Wed Apr 7 15:05:55 2021 +0800
+
+    Changes
+
+[33mcommit c954d6e291de857e9128285355f87e1da4dd9e46[m
+Author: = <=>
+Date:   Wed Apr 7 15:02:43 2021 +0800
+
+    Another Update
+
+[33mcommit ffeca6e5aed9d91c6811902fd239e08ec1644eb7[m
+Author: = <=>
+Date:   Wed Apr 7 14:59:01 2021 +0800
+
+    Read Me Edit
+
+[33mcommit 2b044946acf027761d28f5eb621866dac81344fe[m
+Author: = <=>
+Date:   Wed Apr 7 14:54:29 2021 +0800
+
+    Updated the About Page
+
+[33mcommit 951d781a1432c7ec13eb9a356239f4f5b680a389[m
+Author: = <=>
+Date:   Wed Apr 7 14:45:54 2021 +0800
+
+    Added 2 Post
+
+[33mcommit 2ce0cd3b0f930fdf3f5868c5ce91d007ca5d418c[m
+Author: Real1ty <dreadlord12318@gmail.com>
+Date:   Mon Apr 5 13:55:05 2021 +0800
+
+    Install ghost
